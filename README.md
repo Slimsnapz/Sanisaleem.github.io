@@ -4,7 +4,7 @@
 Data Scientist Proficient in leveraging data analytics, statistical techniques, data processing, data cleaning, data visualization, and machine learning to extract valuable insights. Eager to contribute skills in predictive modeling, customer segmentation, and network analysis to drive data-driven solutions. Adept at programming in Python, expert with SQL working with relational database, powerBi with a commitment to continuous learning and a passion for solving complex challenges in the industry.
 
 ### Skill Domain
-•	Telecommunications
+•	Telecommunications<br>
 •	Predictive modeling 
 •	Monitoring and evaluation
 •	Real estate assessment modeling 
