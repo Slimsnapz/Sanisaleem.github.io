@@ -5,38 +5,38 @@ Data Scientist Proficient in leveraging data analytics, statistical techniques, 
 
 ### Skill Domain
 •	Telecommunications<br>
-•	Predictive modeling 
-•	Monitoring and evaluation
-•	Real estate assessment modeling 
+•	Predictive modeling<br>
+•	Monitoring and evaluation<br>
+•	Real estate assessment modeling<br>
 
 ### Technical Skills
-•	Python, Numpy, Pandas, Scikit-learn
-•	Tensorflow, keras, machine learning.
+•	Python, Numpy, Pandas, Scikit-learn<br>
+•	Tensorflow, keras, machine learning<br>
 •	Data visualization (Matplotlib, seaborn, plotly/dash, Microsoft power Bi, Tableau)
-•	 SQL, Excel
+•	 SQL, Excel<br>
 
 ### Projects 
-•	Churn analysis, customer churn at a Telecom company, predictive analysis was utilized, the project resulted in a model capable of predicting customers likely to churn.
-•	Superstore, to show key insights in a store, Historical analysis was utilized, an analysis showing key factors and services that contribute highly to sales at store.
-•	Call center,  to analyze agent performance, historical analysis, the project resulted in showing the best agent in the call center for a period of 3 months.
+•	Churn analysis, customer churn at a Telecom company, predictive analysis was utilized, the project resulted in a model capable of predicting customers likely to churn.<br>
+•	Superstore, to show key insights in a store, Historical analysis was utilized, an analysis showing key factors and services that contribute highly to sales at store.<br>
+•	Call center,  to analyze agent performance, historical analysis, the project resulted in showing the best agent in the call center for a period of 3 months.<br>
 
 ### Work Experience
-McEmtol Consulting, MCC
-Quality control analyst
-March 2023 – present 
-•	Analyzing data, documenting, and preparing comprehensive reports for management, highlighting key findings and recommendations.
+McEmtol Consulting, MCC<br>
+Quality control analyst<br>
+March 2023 – present <br>
+•	Analyzing data, documenting, and preparing comprehensive reports for management, highlighting key findings and recommendations.<br>
 
-•	Generate project performance report over project lifecycle.
+•	Generate project performance report over project lifecycle.<br>
 
-•	Gathering and analyzing customer feedback, surveys, and market research to understand customer preferences, needs, and satisfaction levels.
+•	Gathering and analyzing customer feedback, surveys, and market research to understand customer preferences, needs, and satisfaction levels.<br>
 
-•	Generating clear and concise reports and presentations to communicate findings and recommendations to stakeholders, including senior management.
+•	Generating clear and concise reports and presentations to communicate findings and recommendations to stakeholders, including senior management.<br>
 
-•	Collaborating with finance, and other departments to align analysis with overall business objectives and strategies.
+•	Collaborating with finance, and other departments to align analysis with overall business objectives and strategies.<br>
 
-•	Assessing potential risks to quality and devising strategies to mitigate or manage those risks effectively.
+•	Assessing potential risks to quality and devising strategies to mitigate or manage those risks effectively.<br>
 
-•	Identifying opportunities for process improvements in quality control procedures and recommending changes to enhance overall efficiency and effectiveness.
+•	Identifying opportunities for process improvements in quality control procedures and recommending changes to enhance overall efficiency and effectiveness.<br>
 
 ### Qualification
 National Centre for Technology management(NACETEM), Garki area 3, FCT.
